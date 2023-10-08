@@ -1,0 +1,3 @@
+[submodule "coreboot"]
+	path = coreboot
+	url = https://github.com/MrChromebox/coreboot
